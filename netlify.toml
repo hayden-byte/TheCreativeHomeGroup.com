@@ -1,0 +1,4 @@
+[build]
+  base = "Creative-Home-Solutions/client"
+  command = "npm run build"
+  publish = "dist"
