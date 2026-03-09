@@ -1,4 +1,4 @@
 [build]
   base = "Creative-Home-Solutions/client"
-  command = "npm run build"
+  command = "npx vite build"
   publish = "dist"
